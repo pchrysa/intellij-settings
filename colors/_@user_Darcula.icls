@@ -4,7 +4,7 @@
     <property name="created">2017-11-28T21:09:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-11-28T22:36:53</property>
+    <property name="modified">2017-11-28T22:42:08</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="19" />
@@ -25,11 +25,13 @@
     <option name="JS.BRACES">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.BRACKETS">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.CLASS">
@@ -72,7 +74,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="a04bb9" />
+        <option name="FOREGROUND" value="9370db" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -107,6 +109,7 @@
     <option name="JS.OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.PARAMETER">
@@ -118,6 +121,7 @@
     <option name="JS.PARENTHS">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.SEMICOLON">
