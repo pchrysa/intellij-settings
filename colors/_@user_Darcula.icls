@@ -4,12 +4,22 @@
     <property name="created">2017-11-28T21:09:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-11-28T22:42:08</property>
+    <property name="modified">2017-11-28T23:02:01</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="19" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ff7f50" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff7f50" />
+      </value>
+    </option>
     <option name="JS.BADCHARACTER">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -74,12 +84,12 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="9370db" />
+        <option name="FOREGROUND" value="a480f5" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
+        <option name="FOREGROUND" value="638e5e" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -124,9 +134,49 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="638e5e" />
+      </value>
+    </option>
     <option name="JS.SEMICOLON">
       <value>
         <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="638e5e" />
+      </value>
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="638e5e" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="d3af62" />
+      </value>
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff7f50" />
       </value>
     </option>
   </attributes>
