@@ -1,0 +1,129 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-11-28T21:09:11</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.6.0.0</property>
+    <property name="modified">2017-11-28T22:36:53</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="JS.BADCHARACTER">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+      </value>
+    </option>
+    <option name="JS.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+      </value>
+    </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
+    <option name="JS.DOT">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a04bb9" />
+      </value>
+    </option>
+    <option name="JS.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="94a0ba" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+      </value>
+    </option>
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="1e90ff" />
+      </value>
+    </option>
+    <option name="JS.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+      </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="bdb76b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="ff8c00" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
