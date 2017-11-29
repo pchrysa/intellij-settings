@@ -1,9 +1,10 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Source Code Pro" />
+    <option name="FONT_FAMILY" value="Tlwg Typo" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="SqlEditorOptions">
