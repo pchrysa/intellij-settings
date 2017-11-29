@@ -4,11 +4,11 @@
     <property name="created">2017-11-29T10:23:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-11-29T10:34:20</property>
+    <property name="modified">2017-11-29T10:40:29</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="19" />
-  <option name="EDITOR_FONT_NAME" value="Tlwg Typo" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="HTML_TAG">
       <value>

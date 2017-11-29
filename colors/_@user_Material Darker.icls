@@ -4,19 +4,20 @@
     <property name="created">2017-10-13T14:18:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-13T14:26:34</property>
+    <property name="modified">2017-11-29T10:40:29</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
