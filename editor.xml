@@ -1,6 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
@@ -9,9 +8,5 @@
   </component>
   <component name="SqlEditorOptions">
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
